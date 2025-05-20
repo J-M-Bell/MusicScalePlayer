@@ -1,2 +1,2 @@
 # Music Scales
-A mobile app for playing music scales
+A mobile app that allows users to play major and minor music scales.
